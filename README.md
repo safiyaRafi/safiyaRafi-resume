@@ -1,107 +1,133 @@
-# Hi there, I'm Shaik Safiya 👋  
-🌐 Software-engineer | Full-Stack Developer | 💡 Lifelong Learner | ☕ Code & Coffee Enthusiast  
+<h1 align="center">💎 Shaik Safiya</h1>
 
- [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/shaik-safiya-8a3239377)    [![Email](https://img.shields.io/badge/✉️%20Email-Say%20Hi-EA4335?style=for-the-badge)](mailto:sksafiya484@gmail.com)
-
----
-
-## 🚀 About Me  
-
-- 🧑‍💻 Full-Stack Software Engineer with **3.5 years of experience** building modern, scalable applications.  
-- 🏢 Currently at **Trangla Innovations Pvt Ltd**, developing enterprise-grade platforms for logistics and travel domains.  
-- ⚙ Expanding my backend expertise with **FastAPI, Node.js, Express.js**, and API architecture.  
-- ☁ Learning **AWS & Docker** for CI/CD deployments and cloud automation.  
-- 🎨 Passionate about **clean UI, reusable components**, and bridging designs to life with precision.  
+<p align="center">
+  <b>💻 Software Engineer | Full Stack Developer | React.js | Next.js | Python FastAPI</b><br/>
+  📍 Hyderabad, Telangana, India <br/>
+  <a href="mailto:sksafiya484@gmail.com">📧 sksafiya484@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/shaik-safiya-8a3239377">🔗 LinkedIn</a> |
+  <a href="https://github.com/safiyaRafi">💻 GitHub</a> |
+  <a href="https://shaiksafiya.vercel.app/">🌍 Portfolio</a>
+</p>
 
 ---
 
-## 🧰 Tech Toolbox  
+## 👩‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+Hi! I’m **Shaik Safiya**, a passionate **Software Engineer** with **3.5 years of professional experience** at *Trangla Innovations Pvt. Ltd.*,  
+specializing in **React.js, Next.js, TypeScript, Node.js, and Python FastAPI**.  
+
+I develop **end-to-end scalable web applications**, seamlessly connecting modern frontends with powerful backends — ensuring clean code, high performance, and business-driven results.
+
+> 💬 “I build digital experiences that balance creativity, scalability, and real-world impact.”
 
 ---
 
-## 📦 Featured Projects  
+## 🧠 Professional Summary
 
-### 🧭 **Enterprise Resource Planning (ERP) Portal**  
-A custom ERP solution for logistics management.  
-- Developed role-based dashboards using React & Redux.  
-- Built multi-tenant backend with Node.js and PostgreSQL.  
-- 📈 *Result:* Reduced manual operations by 50%.  
+Full Stack Developer with expertise in **React.js**, **Next.js**, **FastAPI**, and **AWS deployment**.  
+Proven experience in **designing, developing, and deploying enterprise-level applications**,  
+with strong collaboration across cross-functional teams in Agile environments.  
 
----
-
-### 🤖 **AI-Powered Content Generation Tool**  
-Automated content creation using OpenAI API and FastAPI.  
-- Integrated OpenAI with FastAPI backend for smart text generation.  
-- Deployed Dockerized service on AWS with React frontend.  
-- ⚡ *Impact:* Saved 20+ hours per week of manual work.  
+- ⚡ Built 5+ production-level projects for enterprise clients  
+- 🚀 Developed scalable **FastAPI microservices** handling 20K+ daily API requests  
+- 💡 Designed and deployed complete **CI/CD pipelines** using **Docker & GitHub Actions**  
+- 👩‍🏫 Mentored junior developers and conducted internal code reviews  
 
 ---
 
-### 💼 **Enterprise Job Board**  
-Full-stack job portal with filtering and dashboard features.  
-- Built UI with React, TypeScript & Shadcn/UI.  
-- Integrated APIs for applications and notifications.  
-- 🎯 *Impact:* Reduced onboarding time by 50%.  
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-### 🛍 **E-commerce Platform Migration**  
-Migrated a legacy store to Next.js SSR architecture.  
-- Improved Lighthouse score by 60% and SEO by 25%.  
-- Ensured responsive design and WCAG accessibility.  
+## 🏢 Professional Experience
+
+### 👩‍💻 Software Engineer | Trangla Innovations Pvt. Ltd  
+📅 July 2022 – Present (3.5 Years) | Hyderabad, Telangana  
+
+- Built and maintained **5+ full-stack enterprise web apps** with *React, Next.js, and FastAPI*  
+- Designed **secure authentication systems** with *JWT and session-based auth*  
+- Architected **modular microservices** using FastAPI, improving performance by 30%  
+- Developed a **reusable React component library**, cutting new feature delivery time by 25%  
+- Managed **CI/CD pipelines with Docker & GitHub Actions**, automating deployments to AWS  
+- Led **frontend optimizations** reducing load time by 40% using SSR and code splitting  
+- Mentored junior engineers and conducted performance-focused code reviews  
 
 ---
 
-### 🚛 **Truck Management System**  
-Fleet & trip tracking dashboard for logistics operations.  
-- Built with React and Material UI.  
-- Enabled real-time data updates and driver visibility.  
+## 🧩 Projects
+
+### 🧠 Enterprise Resource Planning (ERP) Portal  
+- Full-stack ERP system for managing users, roles, billing, and inventory  
+- Backend: Node.js + PostgreSQL | Frontend: React + TypeScript  
+- Enhanced productivity by automating manual reporting workflows  
+*🛠 Tech:* React.js, TypeScript, Node.js, Docker, PostgreSQL  
 
 ---
 
-### 🧳 **Multi-Modal Travel Booking System**  
-Travel booking web app for hotel search and reservations.  
-- Implemented dynamic filtering and search logic.  
-- Optimized API calls for faster responses.  
+### 🤖 AI-Powered Content Generation Tool  
+- Integrated OpenAI API with FastAPI backend for automated text creation  
+- Deployed as a scalable microservice on AWS  
+- Saved over **20+ hours/week** in manual work  
+*🛠 Tech:* FastAPI, OpenAI API, Python, React, AWS  
 
 ---
 
-### 📦 **TrackKit – Inventory & Sales Management Tool**  
-Lightweight inventory management solution.  
-- Developed with Next.js, TypeScript and Tailwind CSS.  
-- Tracks products, stock and revenue in real time.  
+### 💼 Enterprise Job Board  
+- Built a full-featured job portal with filtering, dashboards, and analytics  
+- Used *ShadCN/UI* and *Tailwind CSS* for a modern, consistent design  
+- Reduced client onboarding time by 50%  
+*🛠 Tech:* Next.js, TypeScript, REST APIs, Tailwind CSS  
 
 ---
 
-## 🧠 Currently Exploring  
-
-- Node.js + Prisma ORM for backend development  
-- MySQL & PostgreSQL performance optimization  
-- AWS & Docker for scalable deployments  
-- System design patterns for microservices  
+### 🛒 E-Commerce Migration Platform  
+- Migrated legacy PHP-based e-commerce to *Next.js + TypeScript*  
+- Improved performance and SEO through server-side rendering  
+*🛠 Tech:* Next.js, TypeScript, Vercel  
 
 ---
 
-## 🔗 Connect With Me  
+## 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-safiya-8a3239377)  
-[![Email](https://img.shields.io/badge/Email-sksafiya484@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sksafiya484@gmail.com)
+🎓 *Bachelor of Computer Applications (BCA)*  
+📍 Sri Nagarjuna Degree College, Hyderabad, Telangana  
 
 
 ---
 
-## ☕ Fun Fact  
-When I’m not coding, I’m designing UI mockups, exploring cloud infrastructure, or sipping coffee while debugging life. 💻☕
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="mailto:sksafiya484@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shaik-safiya-8a3239377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/safiyaRafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://shaiksafiya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏷 Hashtags
+#NextJS #ReactJS #FastAPI #Python #TailwindCSS #FullStackDeveloper #PostgreSQL #Docker #Vercel #AWS #Portfolio #CI_CD #GitHub #SoftwareEngineer #ShaikSafiya
+
+---
+
+⭐ *Designed & Developed by [Shaik Safiya](https://github.com/safiyaRafi)*
