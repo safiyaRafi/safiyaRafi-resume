@@ -28,7 +28,7 @@ Full Stack Developer with expertise in **React.js**, **Next.js**, **FastAPI**, a
 Proven experience in **designing, developing, and deploying enterprise-level applications**,  
 with strong collaboration across cross-functional teams in Agile environments.  
 
-- ⚡ Built 5+ production-level projects for enterprise clients  
+- ⚡ Built 4+ production-level projects for enterprise clients  
 - 🚀 Developed scalable **FastAPI microservices** handling 20K+ daily API requests  
 - 💡 Designed and deployed complete **CI/CD pipelines** using **Docker & GitHub Actions**  
 - 👩‍🏫 Mentored junior developers and conducted internal code reviews  
