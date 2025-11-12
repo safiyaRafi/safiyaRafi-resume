@@ -1,9 +1,7 @@
 # Hi there, I'm Shaik Safiya 👋  
-🌐 Full-Stack Developer | 💡 Lifelong Learner | ☕ Code & Coffee Enthusiast  
+🌐 Software-engineer | Full-Stack Developer | 💡 Lifelong Learner | ☕ Code & Coffee Enthusiast  
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge)](#)  
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/shaik-safiya-8a3239377)  
-[![Email](https://img.shields.io/badge/✉️%20Email-Say%20Hi-EA4335?style=for-the-badge)](mailto:sksafiya484@gmail.com)
+[![Portfolio](http.ss://imghields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge)](#)  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/shaik-safiya-8a3239377)  [![Email](https://img.shields.io/badge/✉️%20Email-Say%20Hi-EA4335?style=for-the-badge)](mailto:sksafiya484@gmail.com)
 
 ---
 
@@ -100,6 +98,8 @@ Lightweight inventory management solution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-safiya-8a3239377)  
 [![Email](https://img.shields.io/badge/Email-sksafiya484@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sksafiya484@gmail.com)
+[![Portfolio](http.ss://imghields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge)](#)  
+
 
 ---
 
