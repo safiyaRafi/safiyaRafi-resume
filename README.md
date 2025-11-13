@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/shaik-safiya-8a3239377">🔗 LinkedIn</a> |
   <a href="https://github.com/safiyaRafi">💻 GitHub</a> |
   <a href="https://shaiksafiya.vercel.app/">🌍 Portfolio</a>
+  <a href="https://github.com/safiyaRafi/resume" target="_blank">📄 Resume</a> |
+
 </p>
 
 ---
@@ -121,6 +123,8 @@ with strong collaboration across cross-functional teams in Agile environments.
   <a href="https://www.linkedin.com/in/shaik-safiya-8a3239377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/safiyaRafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://shaiksafiya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/safiyaRafi/resume" target="_blank">📄 Resume</a> |
+
 </p>
 
 ---
